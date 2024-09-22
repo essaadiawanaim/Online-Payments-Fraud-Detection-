@@ -21,7 +21,7 @@ The Random Forest model performed best for detecting fraudulent transactions, bu
 - **Supervisor:** Pr. Khamjane
   
 
-[Link to the full report](/blob/main/ML-Rapport.pdf)
+[Link to the full report](/ML-Rapport.pdf)
 
 
 https://github.com/essaadiawanaim/Online-Payments-Fraud-Detection-/blob/main/ML-Rapport.pdf
