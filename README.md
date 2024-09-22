@@ -1,7 +1,7 @@
 # detection of fraud in online transactions
 #### Fraud Detection using Machine Learning
 
-This project applies various Machine Learning (ML) techniques to detect fraud in online payment transactions. The models implemented include Logistic Regression, Random Forest, and XGBoost. The dataset is highly imbalanced, and techniques like SMOTE and undersampling were used to handle this imbalance. 
+This project applies various Machine Learning (ML) techniques to detect fraud in online payment transactions. The models implemented include `Logistic Regression`, `Random Forest`, and `XGBoost`. The dataset is highly imbalanced, and techniques like SMOTE and undersampling were used to handle this imbalance. 
 
 ## Key Features:
 - **Data Preprocessing:** Handled missing values, categorical encoding, and applied feature scaling using RobustScaler.
