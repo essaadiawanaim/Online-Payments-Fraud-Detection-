@@ -17,9 +17,7 @@ We used a dataset from Kaggle containing 6 million transactions, out of which 83
 ## Conclusion:
 The Random Forest model performed best for detecting fraudulent transactions, but with a higher false positive rate. The logistic regression model was more conservative with false positives but missed more fraud cases.
 
-## References:
-- **University:** Abdelmalek Essaadi University
-- **Supervisor:** Pr. Khamjane
+
   
 
 [Link to the full report](/ML-Rapport.pdf)
