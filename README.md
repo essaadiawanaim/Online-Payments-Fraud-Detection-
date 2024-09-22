@@ -12,6 +12,7 @@ This project applies various Machine Learning (ML) techniques to detect fraud in
 
 ## Dataset:
 We used a dataset from Kaggle containing 6 million transactions, out of which 8312 were labeled as fraud.
+[Link to the datasets](https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset)
 
 ## Conclusion:
 The Random Forest model performed best for detecting fraudulent transactions, but with a higher false positive rate. The logistic regression model was more conservative with false positives but missed more fraud cases.
@@ -23,5 +24,3 @@ The Random Forest model performed best for detecting fraudulent transactions, bu
 
 [Link to the full report](/ML-Rapport.pdf)
 
-
-https://github.com/essaadiawanaim/Online-Payments-Fraud-Detection-/blob/main/ML-Rapport.pdf
